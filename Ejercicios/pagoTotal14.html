@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let salarioMin = 1450000;
+        let subTrans = 120000;
+        let diasTrabajados = 9;
+        let valorDia = 40000;
+        let salario = diasTrabajados * valorDia;
+        let pension = salario * 0.16;
+        let salud = salario * 0.12;
+        let arl = salario * 0.052;
+        let deducciones = salud + pension + arl;
+        
+        if (salario < salarioMin) {
+            subTrans = 162000;
+        } else {
+            subTrans = 0;
+        }
+        let totalPagar = (salario + subTrans) - deducciones;
+    
+        console.log (salud, pension, arl, subTrans, totalPagar);
+        //Julian David Naranjo Pascuas//
+    </script>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let valorDia = 40000;
+        let diasTrab = 7;
+        let sueldo = diasTrab * valorDia;
+        let pension = sueldo * 0.16;
+        let salud = sueldo * 0.12;
+        let arl = sueldo * 0.052;
+        let descuento = salud + pension + arl;
+        let pagoTotal = sueldo - descuento;
+
+        console.log(salud, pension, arl, pagoTotal);
+        //Julian David Naranjo Pascuas//
+    </script>
+</body>
+</html>

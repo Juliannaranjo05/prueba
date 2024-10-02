@@ -1,0 +1,314 @@
+body{
+    background-color: rgb(26, 0, 99);
+}
+.cuadros{
+    width: 70px;
+    height: 65px;
+    border: 1px solid #000;
+}
+.cuadrospequeños {
+    position: absolute;
+    width: 3px; 
+    height: 20px; 
+    background-color: yellow;
+    margin-top: -0.05%;
+    margin-left: 28%;
+}
+.cuadrospequeños1 {
+    position: absolute;
+    width: 3px; 
+    height: 20px; 
+    background-color: #00CC00;
+    margin-top: 2.1%;
+    margin-left: 28%;
+}
+.cuadrospequeños2 {
+    position: absolute;
+    width: 3px; 
+    height: 20px; 
+    background-color: blueviolet;
+    margin-top: 4.2%;
+    margin-left: 28%;
+}
+.cuadrospequeños3 {
+    position: absolute;
+    width: 3px; 
+    height: 20px; 
+    background-color: #9e00a3;
+    margin-top: 6.3%;
+    margin-left: 28%;
+}
+.cuadrospequeños4 {
+    position: absolute;
+    width: 3px; 
+    height: 20px; 
+    background-color: #00c086;
+    margin-top: 8.4%;
+    margin-left: 28%;
+}
+.cuadrospequeños5 {
+    position: absolute;
+    width: 3px; 
+    height: 20px; 
+    background-color: rgb(163, 0, 228);
+    margin-top: -0.05%;
+    margin-left: 37%;
+}
+.cuadrospequeños6 {
+    position: absolute;
+    width: 3px; 
+    height: 20px; 
+    background-color: rgb(0, 60, 255);
+    margin-top: 2.1%;
+    margin-left: 37%;
+}
+.cuadrospequeños7 {
+    position: absolute;
+    width: 3px; 
+    height: 20px; 
+    background-color: rgb(5, 141, 0);
+    margin-top: 4.2%;
+    margin-left: 37%;
+}
+.cuadrospequeños8 {
+    position: absolute;
+    width: 3px; 
+    height: 20px; 
+    background-color: rgb(246, 250, 0);
+    margin-top: 6.3%;
+    margin-left: 37%;
+}
+.cuadrospequeños9 {
+    position: absolute;
+    width: 3px; 
+    height: 20px; 
+    background-color: dodgerblue;
+    margin-top: 8.4%;
+    margin-left: 37%;
+}
+.propiedad {
+    width: 100px;
+    margin-left: 20px;
+    font-size: 12px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.propiedad1 {
+    width: 100px;
+    margin-top: 2.1%;
+    margin-left: 20px;
+    font-size: 12px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.propiedad2 {
+    width: 100px;
+    margin-top: 3%;
+    margin-left: 20px;
+    font-size: 12px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.propiedad3 {
+    width: 100px;
+    margin-top: 6.3%;
+    margin-left: 20px;
+    font-size: 12px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.propiedad4 {
+    width: 100px;
+    margin-top: 8.4%;
+    margin-left: 20px;
+    font-size: 12px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.propiedad5 {
+    width: 100px;
+    margin-top: 8.4%;
+    margin-left: 20px;
+    font-size: 12px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.propiedad6 {
+    width: 100px;
+    margin-top: 8.4%;
+    margin-left: 20px;
+    font-size: 12px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.propiedad7 {
+    width: 100px;
+    margin-top: 8.4%;
+    margin-left: 20px;
+    font-size: 12px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.propiedad8 {
+    width: 100px;
+    margin-top: 8.4%;
+    margin-left: 20px;
+    font-size: 12px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.propiedad9 {
+    width: 100px;
+    margin-top: 8.4%;
+    margin-left: 20px;
+    font-size: 12px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cuadrosFila1 {
+    width: 70px; /*70px*/
+    height: 65px; /*65px*/
+    display: inline-block;
+    border: 1px solid #000;
+    margin-right: 86.4%;
+}
+.cuadrosFila12 {
+    width: 70px; /*70px*/
+    height: 65px; /*65px*/
+    display: inline-block;
+    margin: 0.03%;
+    border: 1px solid #000;
+    margin-right: 86.4%;
+} 
+.cuadroEjemplo {
+    width: 150px; 
+    height: 130px; 
+    border: 2px solid #000;
+    margin-top: 0.5%;
+    margin-left: 14.5%;
+    position: absolute;
+    background-color: #00CC00;
+}
+.cuadrosgrande{
+    width: 40px;
+    height: 35px;
+    border: 1px solid #000;
+}
+.altura{
+    margin-top: 13%;
+}
+.cuadros1 {
+    width: 70px;
+    height: 65px;
+    padding: 0px;
+    border: 1px solid rgb(26, 0, 99);
+}
+.peque{
+    margin-left: -9px;
+    font-size: 8px;
+}
+.pequeD{
+    position: absolute;
+    margin-left: -5%;
+    margin-bottom: 65%;
+    font-size: 16px;
+}
+.caracteres5{
+    margin-top: -29%;
+    margin-left: 68%;
+    font-size: 8px;
+}
+.caracteres3 {
+    margin-top: -27%;
+    margin-left: 90%;
+    font-size: 8px;
+}
+.caracteres4 {
+    margin-top: -27%;
+    margin-left: 77%;
+    font-size: 8px;
+}
+.caracteres6{
+    margin-bottom: -55%;
+    margin-left: 69%;
+    font-size: 16px;
+}
+.distancia{
+    margin-right: 54%;
+}
+.letra {
+    color: aliceblue;
+    text-align: center;
+    padding-top: -25px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.letraD {
+    color: aliceblue;
+    text-align: center;
+    font-size: 35px;
+    margin-top: 50%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.nombre {
+    font-size: 8px;
+    text-align: center;
+}
+.nombreD {
+    margin-top: -2%;
+    font-size: 16px;
+    text-align: center;
+}
+.flechas {
+    position: absolute;
+    color: white;
+    margin-bottom: 2%;
+    margin-left: 11%;
+    z-index: 1000;
+}
+.titulo {
+    margin-top: 70px;
+    text-align: center;
+    color: aliceblue;
+    font-family: fantasy;
+    font-size: 5000px;
+}
+.colorazul{
+    background-color: dodgerblue;
+}
+.colorazulO {
+    background-color: blue;
+}
+.colorverde {
+    background-color: chartreuse;
+}
+.colorverdeO {
+    background-color: darkgreen;
+}
+.coloramarillo {
+    background-color: goldenrod;
+}
+.colorrosado {
+    background-color: crimson;
+}
+.coloramarilloO {
+    background-color: gold;
+}
+.colormorado {
+    background-color: blueviolet;
+}
+.colormenta {
+    background-color: cyan;
+}
+.colorrosadoO {
+    background-color: deeppink;
+}
+.cuadros:hover {
+    transform: scale(1.15);
+}
+.cuadrosFila12:hover {
+    transform: scale(1.15);
+}
+.cuadroEjemplo:hover {
+    transform: rotate(10deg);
+}
